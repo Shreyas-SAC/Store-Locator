@@ -1,12 +1,9 @@
-## Google Maps API Key
+Developed this application using plain javascript.
 
-AIzaSyBh15L6ZQVrZVsMjwAhb_3-X6bbgpSGtQk
+Used Google Store Locator guide for reference.
 
-**WARNING**
-DO NOT SHARE IT WITH ANYONE
+Used Google Maps JavaScript API for displaying Map.
 
-## FontAwesome Link
+Extracted the real-world data for the Store Locator with the help of Web Scraping. 
 
-https://kit.fontawesome.com/c939d0e917.js
 
-AIzaSyB9Ly0QYUTEyV5kbNFDacyfR3jwreH4IT0
